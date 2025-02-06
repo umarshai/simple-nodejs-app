@@ -3,7 +3,7 @@ name: Task 1 expression  Workflow
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
